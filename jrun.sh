@@ -16,4 +16,4 @@ JUPYTER_URL="Click to launch http://${EXTERNAL_IP}:8888/?token=${JUPYTER_TOKEN}"
 
 # 4. display url
 echo "---------------------------------------------------------------------------"
-echo ${JUPYTER_URL} 2
+echo ${JUPYTER_URL} 
